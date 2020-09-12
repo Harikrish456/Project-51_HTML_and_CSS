@@ -1,0 +1,33 @@
+h1 {
+    color: purple;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.origami {
+    background-color: #FFFF00;
+    align-content: center;
+    padding: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+.contact {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.info {
+    display: flex;
+    background-color: #CD3700;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+body {
+    margin: 0px;
+    background-color: #90FEFB;
+}
